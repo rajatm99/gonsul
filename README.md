@@ -1,2 +1,2 @@
-# gonsul
-consul for dynamic config management
+# GONSUL - Go package for CONSUL
+This package focuses on managing config variables in consul key value store
